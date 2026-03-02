@@ -1,4 +1,5 @@
  Mall Customer Segmentation using Clustering & PCA
+ 
 📌 Project Overview
 
 This project focuses on Customer Segmentation using unsupervised machine learning techniques. The goal is to analyze customer behavior and group customers into meaningful clusters based on their purchasing patterns.
@@ -7,53 +8,28 @@ Customer segmentation helps businesses understand different types of customers a
 
 🎯 Objectives
 
-Perform Exploratory Data Analysis (EDA) on customer data.
+1 Perform Exploratory Data Analysis (EDA) on customer data.
 
-Apply multiple clustering algorithms to identify customer groups.
+2 Apply multiple clustering algorithms to identify customer groups.
 
-Determine the optimal number of clusters.
+3 Determine the optimal number of clusters.
 
-Reduce dimensionality using Principal Component Analysis (PCA).
+4 Reduce dimensionality using Principal Component Analysis (PCA).
 
-Visualize customer segments for better interpretation.
+5 Visualize customer segments for better interpretation.
 
 📊 Dataset
 
 The dataset contains mall customer information including:
 
-Customer ID
-
-Gender
-
-Age
-
-Annual Income (k$)
-
-Spending Score (1–100)
+Customer ID | Gender | Age | Annual Income (k$) | Spending Score (1–100)
 
 These features help analyze customer purchasing behavior.
 
 ⚙️ Technologies Used
 
-Python
+Python | Pandas & NumPy |Matplotlib & Seaborn  |Scikit-learn 
 
-Pandas & NumPy – Data manipulation
-
-Matplotlib & Seaborn – Data visualization
-
-Scikit-learn – Machine learning algorithms
-
-Jupyter Notebook
-
-🔎 Data Preprocessing
-
-Checked missing values
-
-Feature selection
-
-Data scaling using StandardScaler
-
-Prepared dataset for clustering algorithms
 
 🤖 Machine Learning Models Used
 1️⃣ K-Means Clustering
@@ -102,12 +78,3 @@ Personalize promotions
 
 Increase customer retention
 
-📊 Visualizations
-
-Elbow Method Graph
-
-Cluster Scatter Plots
-
-PCA Visualization
-
-Dendrogram (Hierarchical Clustering)
