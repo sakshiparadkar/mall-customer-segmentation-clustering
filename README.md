@@ -30,7 +30,7 @@ These features help analyze customer purchasing behavior.
 
 Python | Pandas & NumPy |Matplotlib & Seaborn  |Scikit-learn 
 
-![image_alt](https://github.com/sakshiparadkar/mall-customer-segmentationclustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/dendrogram%20(3).png)
+![image_alt](https://github.com/sakshiparadkar/mall-customer-segmentation-clustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/dendrogram%20(3).png)
 ![image_alt](https://github.com/sakshiparadkar/mall-customer-segmentation-clustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/elbow_method%20(3).png)
 ![image_alt](https://github.com/sakshiparadkar/mall-customer-segmentation-clustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/kdistance_plot%20(3).png)
 
