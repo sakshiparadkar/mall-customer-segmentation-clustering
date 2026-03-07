@@ -42,29 +42,11 @@ Python | Pandas & NumPy |Matplotlib & Seaborn  |Scikit-learn
 🤖 Machine Learning Models Used
 1️⃣ K-Means Clustering
 
-Applied Elbow Method to find optimal number of clusters.
-
-Segmented customers based on income and spending patterns.
-
 2️⃣ DBSCAN
-
-Density-based clustering method.
-
-Identified noise and outlier customers.
 
 3️⃣ Hierarchical Clustering
 
-Used dendrogram to visualize cluster formation.
-
-Compared clustering structure with K-Means results.
-
 📉 Dimensionality Reduction (PCA)
-
-Applied Principal Component Analysis (PCA).
-
-Reduced dataset dimensions for visualization.
-
-Improved cluster visualization in 2D space.
 
 📈 Results & Insights
 
