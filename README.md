@@ -30,6 +30,14 @@ These features help analyze customer purchasing behavior.
 
 Python | Pandas & NumPy |Matplotlib & Seaborn  |Scikit-learn 
 
+![image_alt](https://github.com/sakshiparadkar/mall-customer-segmentationclustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/dendrogram%20(3).png)
+![image_alt](https://github.com/sakshiparadkar/mall-customer-segmentation-clustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/elbow_method%20(3).png)
+![image_alt](https://github.com/sakshiparadkar/mall-customer-segmentation-clustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/kdistance_plot%20(3).png)
+
+![image_alt](https://github.com/sakshiparadkar/mall-customer-segmentation-clustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/silhouette_score%20(3).png)
+
+![image_alt]( https://github.com/sakshiparadkar/mall-customer-segmentation-clustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/algorithm_comparison%20(3).png)
+![image_alt](https://github.com/sakshiparadkar/mall-customer-segmentation-clustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/cluster_profiles%20(3).png)
 
 🤖 Machine Learning Models Used
 1️⃣ K-Means Clustering
@@ -60,21 +68,13 @@ Improved cluster visualization in 2D space.
 
 📈 Results & Insights
 
-The clustering analysis revealed distinct customer groups such as:
+1)The clustering analysis revealed distinct customer groups such as:
 
-High income – high spending customers (Premium customers)
+2)High income – high spending customers (Premium customers)
 
-High income – low spending customers (Potential targets)
+3)High income – low spending customers (Potential targets)
 
-Low income – high spending customers
+4)Low income – high spending customers
 
-Budget-conscious customers
 
-These insights can help businesses:
-
-Improve marketing strategies
-
-Personalize promotions
-
-Increase customer retention
 
