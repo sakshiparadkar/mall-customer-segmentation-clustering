@@ -28,7 +28,7 @@ These features help analyze customer purchasing behavior.
 
 ⚙️ Technologies Used
 
-Python | Pandas & NumPy |Matplotlib & Seaborn  |Scikit-learn 
+Python | Pandas & NumPy | Matplotlib & Seaborn  | Scikit-learn 
 
 ![image_alt](https://github.com/sakshiparadkar/mall-customer-segmentation-clustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/dendrogram%20(3).png)
 ![image_alt](https://github.com/sakshiparadkar/mall-customer-segmentation-clustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/elbow_method%20(3).png)
@@ -40,6 +40,7 @@ Python | Pandas & NumPy |Matplotlib & Seaborn  |Scikit-learn
 ![image_alt](https://github.com/sakshiparadkar/mall-customer-segmentation-clustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/cluster_profiles%20(3).png)
 
 🤖 Machine Learning Models Used
+
 1️⃣ K-Means Clustering
 
 2️⃣ DBSCAN
@@ -48,7 +49,7 @@ Python | Pandas & NumPy |Matplotlib & Seaborn  |Scikit-learn
 
 📉 Dimensionality Reduction (PCA)
 
-📈 Results & Insights
+Results & Insights
 
 1)The clustering analysis revealed distinct customer groups such as:
 
