@@ -1,24 +1,24 @@
- Mall Customer Segmentation using Clustering & PCA
+##🌟 Mall Customer Segmentation using Clustering & PCA
  
-📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on Customer Segmentation using unsupervised machine learning techniques. The goal is to analyze customer behavior and group customers into meaningful clusters based on their purchasing patterns.
 
 Customer segmentation helps businesses understand different types of customers and design targeted marketing strategies.
 
-🎯 Objectives
+## 🎯 Objectives
 
-1 Perform Exploratory Data Analysis (EDA) on customer data.
+1. Perform Exploratory Data Analysis (EDA) on customer data.
 
-2 Apply multiple clustering algorithms to identify customer groups.
+2. Apply multiple clustering algorithms to identify customer groups.
 
-3 Determine the optimal number of clusters.
+3. Determine the optimal number of clusters.
 
-4 Reduce dimensionality using Principal Component Analysis (PCA).
+4. Reduce dimensionality using Principal Component Analysis (PCA).
 
-5 Visualize customer segments for better interpretation.
+5. Visualize customer segments for better interpretation.
 
-📊 Dataset
+## 📊 Dataset
 
 The dataset contains mall customer information including:
 
@@ -26,20 +26,23 @@ Customer ID | Gender | Age | Annual Income (k$) | Spending Score (1–100)
 
 These features help analyze customer purchasing behavior.
 
-⚙️ Technologies Used
+## ⚙️ Technologies Used
 
 Python | Pandas & NumPy | Matplotlib & Seaborn  | Scikit-learn 
-
+## DENDOGRAM
 ![image_alt](https://github.com/sakshiparadkar/mall-customer-segmentation-clustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/dendrogram%20(3).png)
+## ELBOW METHOD
 ![image_alt](https://github.com/sakshiparadkar/mall-customer-segmentation-clustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/elbow_method%20(3).png)
+## K-DISTANCE PLOT
 ![image_alt](https://github.com/sakshiparadkar/mall-customer-segmentation-clustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/kdistance_plot%20(3).png)
-
+## SILLHOUUTE SCORE VS K
 ![image_alt](https://github.com/sakshiparadkar/mall-customer-segmentation-clustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/silhouette_score%20(3).png)
-
+## ALGORITHM COMPARISON
 ![image_alt]( https://github.com/sakshiparadkar/mall-customer-segmentation-clustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/algorithm_comparison%20(3).png)
+## CLUSTER PROFILES
 ![image_alt](https://github.com/sakshiparadkar/mall-customer-segmentation-clustering/blob/0013abc13e345b55c4fee804dbde2252d3cbbc44/cluster_profiles%20(3).png)
 
-🤖 Machine Learning Models Used
+##  Machine Learning Models Used
 
 1️⃣ K-Means Clustering
 
@@ -47,9 +50,9 @@ Python | Pandas & NumPy | Matplotlib & Seaborn  | Scikit-learn
 
 3️⃣ Hierarchical Clustering
 
-📉 Dimensionality Reduction (PCA)
+4️⃣ Dimensionality Reduction (PCA)
 
-Results & Insights
+## Results & Insights
 
 1)The clustering analysis revealed distinct customer groups such as:
 
