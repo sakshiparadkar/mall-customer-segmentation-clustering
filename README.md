@@ -1,4 +1,4 @@
-##🌟 Mall Customer Segmentation using Clustering & PCA
+## 🌟 Mall Customer Segmentation using Clustering & PCA
  
 ## 📌 Project Overview
 
